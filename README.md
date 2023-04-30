@@ -1,4 +1,9 @@
 # chatroom
+
+#### Video Demo:  <URL HERE>
+
+#### Description:
+
 This chat room is a simple program in C programming language that you can run using the command line (command line). With this chat rom, you and other connected users can talk in a text chat room.
 
 This chat uses TCP/IP protocol to communicate with the server. This means that in order to connect to the chat room, you need to know the IP address and the port on which the chat room program is running.
